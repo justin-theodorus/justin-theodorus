@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm on track for learning more about Software Engineering, Machine Learning, AI Systems, and Cloud Infrastructure.\
 ✍️ &nbsp;In my free time, I build side projects and compete in hackathons.\
 💬 &nbsp;Feel free to reach out to me for potential collaborations, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at justin.theodorus@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at justin.theodorus@gmail.com! I'll try to respond as soon as I can.
 
 <br clear="right"/>
 
