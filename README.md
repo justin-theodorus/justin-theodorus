@@ -65,8 +65,8 @@
 
 <p align="center">
 <a href="https://github.com/justin-theodorus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=algolia&exclude_repo=rakamin-fullstack"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=9&theme=algolia&hide=php"/>
 </a>
 </p>
 
