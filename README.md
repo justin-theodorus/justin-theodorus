@@ -66,7 +66,7 @@
 <p align="center">
 <a href="https://github.com/justin-theodorus">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=algolia&exclude_repo=justin-theodorus/rakamin-fullstack"/>
 </a>
 </p>
 
@@ -75,9 +75,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.justintheodorus.com">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-justintheodorus.com-4A90E2?style=for-the-badge"/>
-  </a>&nbsp;
   <a href="https://linkedin.com/in/justin-theodorus">
     <img src="https://img.shields.io/badge/LinkedIn-Justin%20Theodorus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
