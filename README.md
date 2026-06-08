@@ -28,7 +28,7 @@
 | | | |
 |---|---|:---:|
 | **1st Place** | [PINUS Hack 2026](https://github.com/justin-theodorus/artmatch) — *ArtMatch*, AR + AI art discovery app | ![][ts] ![][python] |
-| **2nd Place** | **Cargill Ocean Transportation Datathon 2026** — Vessel-cargo allocation optimizer (R²=0.99, $3.7M simulated profit) | ![][python] |
+| **2nd Place** | **Cargill Ocean Transportation Datathon 2026** — Vessel-cargo allocation optimizer with ML for Feature Importance | ![][python] |
 | **Top 5** | [Dell InnovateDash 2026](https://github.com/justin-theodorus/sabi) — *SABI*, microservices AI tutoring platform | ![][ts] ![][python] ![][docker] |
 | **Most Social Impact** | [AWS Forge the Future Hackathon 2026](https://github.com/justin-theodorus/embege) — *Embege*, agentic kitchen co-pilot on AWS Bedrock | ![][javascript] ![][aws] |
 | **1st Runner-Up** | [NTU Product Club × Notion Ideathon 2026](https://github.com/justin-theodorus/student-founder-mcp) — *Student Founder OS*, AI capacity management system | ![][ts] |
