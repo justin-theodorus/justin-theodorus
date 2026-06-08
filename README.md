@@ -21,6 +21,27 @@
 
 ---
 
+## Highlights
+
+### 🏆 Hackathons & Competitions
+
+| | | |
+|---|---|:---:|
+| **1st Place** | [PINUS Hack 2026](https://github.com/justin-theodorus/artmatch) — *ArtMatch*, AR + AI art discovery app | ![][ts] ![][python] |
+| **2nd Place** | [Cargill Ocean Transportation Datathon 2026] — Vessel-cargo allocation optimizer (R²=0.99, $3.7M simulated profit) | ![][python] |
+| **Top 5** | [Dell InnovateDash 2026](https://github.com/justin-theodorus/sabi) — *SABI*, microservices AI tutoring platform | ![][ts] ![][python] ![][docker] |
+| **Most Social Impact** | [AWS Forge the Future Hackathon 2026](https://github.com/justin-theodorus/embege) — *Embege*, agentic kitchen co-pilot on AWS Bedrock | ![][javascript] ![][aws] |
+| **1st Runner-Up** | [NTU Product Club × Notion Ideathon 2026](https://github.com/justin-theodorus/student-founder-mcp) — *Student Founder OS*, AI capacity management system | ![][ts] |
+| **Synapxe IMDA AI Innovation Challenge 2026** | [BayMini](https://github.com/justin-theodorus/baymax) — Voice-first AI care companion with LangGraph multi-agent system | ![][ts] ![][python] |
+
+### 📚 Research & Publications
+
+| | | |
+|---|---|:---:|
+| **ICLR 2025 Workshop** | [Finding Sparse Autoencoder Representations of Errors in CoT Prompting](https://openreview.net/pdf?id=oCprwPRqwW) — Building Trust in Language Models | ![][python] ![][pytorch] |
+
+---
+
 ### 🛠️ &nbsp;Tech Stack
 
 <table>
@@ -82,3 +103,27 @@
     <img src="https://img.shields.io/badge/Gmail-justin.theodorus-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
+
+[python]: https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB
+[ts]: https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6
+[javascript]: https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E
+[docker]: https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=0DB7ED
+[aws]: https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900
+[pytorch]: https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C
+[jenkins]: https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939
+[fastapi]: https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688
+[react]: https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB
+[nextjs]: https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000
+[go]: https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8
+[java]: https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396
+[cpp]: https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C
+[postgresql]: https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1
+[scikit]: https://img.shields.io/badge/Tool-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E
+[pandas]: https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458
+[pinecone]: https://img.shields.io/badge/Tool-Pinecone-informational?style=flat&logoColor=white&color=000000
+[openai]: https://img.shields.io/badge/Tool-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=412991
+[claude]: https://img.shields.io/badge/Tool-Claude-informational?style=flat&logo=anthropic&logoColor=white&color=D4A27F
+[elasticsearch]: https://img.shields.io/badge/Tool-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=005571
+[langgraph]: https://img.shields.io/badge/Tool-LangGraph-informational?style=flat&logo=langchain&logoColor=white&color=1C3C3C
