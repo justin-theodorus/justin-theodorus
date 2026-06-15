@@ -58,13 +58,13 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 
 **Cloud, DevOps & Tooling**
 
@@ -73,10 +73,10 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 
 </div>
 
@@ -256,6 +256,94 @@ Built a deterministic capacity validation layer that intercepts every task addit
 
 ---
 
+## ◈ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|---|
+| 🥇 1st Place | PINUS Hack 2026 — ArtMatch |
+| 🥈 2nd Place | Cargill Ocean Transportation Datathon 2026 — $3.7M portfolio profit |
+| 🏅 Top 5 Finalist | Dell InnovateDash 2026 — SABI |
+| 🏅 Most Social Impact | AWS Forge the Future Hackathon 2026 — Embege |
+| 🥈 1st Runner-Up | NTU Product Club × Notion Ideathon 2026 — Student Founder OS |
+| 📄 ICLR 2025 Workshop | Co-author — Building Trust in Language Models, Algoverse AI Research |
+| 🎓 Dean's List | SMU SCIS AY 2024/2025 — GPA 4.0/4.0 |
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=7C3AED&bg_color=0D0D0D&border_color=0D0D0D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&hide=php"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=justin-theodorus&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=C4B5FD&dates=6D28D9" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justin-theodorus&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&theme=react-dark" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+```yaml
+justin_theodorus:
+  role: CS Undergraduate @ NUS | SWE Intern Candidate 2027
+  location: Singapore, SG
+
+  learning:
+    - Advanced database internals (Database Systems Specialization)
+    - Quantitative methods (Minor: Quantitative Finance)
+    - System design for distributed, high-throughput services
+
+  building:
+    - CVWO: Cornerstone case management platform (Go + React/TypeScript)
+    - RAG-based AI chatbot companion for personal website
+    - Open source contributions
+
+  exploring:
+    - System design at scale
+    - CI/CD in trading and quant-adjacent, low-latency infrastructure
+
+  open_to:
+    - Software Engineering Internships (SWE, AI/ML, Full-Stack)
+    - ML Research Collaborations
+    - Hackathon Teams building something ambitious
+```
+
+---
+
 ## ◈ Experience
 
 **Incoming Artificial Intelligence Engineer Intern** · Alpha Z · Singapore
@@ -316,104 +404,6 @@ Supported 60+ students in Python fundamentals through weekly consultations and c
 Analyzed 1,000 annotated chain-of-thought samples using Sparse Autoencoders on Gemma-2B. Mapped neuron activations to 9 distinct reasoning error types and co-authored a paper accepted to the ICLR 2025 Workshop on Building Trust in Language Models.
 
 `Python` `PyTorch` `SAELens` `Transformers` `Pandas` `Seaborn` `Research`
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|---|
-| 🥇 1st Place | PINUS Hack 2026 — ArtMatch |
-| 🥈 2nd Place | Cargill Ocean Transportation Datathon 2026 — $3.7M portfolio profit |
-| 🏅 Top 5 Finalist | Dell InnovateDash 2026 — SABI |
-| 🏅 Most Social Impact | AWS Forge the Future Hackathon 2026 — Embege |
-| 🥈 1st Runner-Up | NTU Product Club × Notion Ideathon 2026 — Student Founder OS |
-| 📄 ICLR 2025 Workshop | Co-author — Building Trust in Language Models, Algoverse AI Research |
-| 🎓 Dean's List | SMU SCIS AY 2024/2025 — GPA 4.0/4.0 |
-
-</div>
-
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=7C3AED&bg_color=0D0D0D&border_color=0D0D0D"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&hide=php"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=justin-theodorus&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=C4B5FD&dates=6D28D9" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=justin-theodorus&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=justin-theodorus&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&theme=react-dark" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/justin-theodorus/justin-theodorus/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## ◈ Current Focus
-
-```yaml
-justin_theodorus:
-  role: CS Undergraduate @ NUS | SWE Intern Candidate 2027
-  location: Singapore, SG
-
-  learning:
-    - Advanced database internals (Database Systems Specialization)
-    - Quantitative methods (Minor: Quantitative Finance)
-    - System design for distributed, high-throughput services
-
-  building:
-    - CVWO: Cornerstone case management platform (Go + React/TypeScript)
-    - RAG-based AI chatbot companion for personal website
-    - Open source contributions
-
-  exploring:
-    - System design at scale
-    - CI/CD in trading and quant-adjacent, low-latency infrastructure
-
-  open_to:
-    - Software Engineering Internships (SWE, AI/ML, Full-Stack)
-    - ML Research Collaborations
-    - Hackathon Teams building something ambitious
-```
 
 ---
 
