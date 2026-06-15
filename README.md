@@ -57,15 +57,26 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,expo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,neo4j,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,github,linux,vercel&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
 
@@ -347,7 +358,7 @@ Analyzed 1,000 annotated chain-of-thought samples using Sparse Autoencoders on G
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=justin-theodorus&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=A78BFA" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=justin-theodorus&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
