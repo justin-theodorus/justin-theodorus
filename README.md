@@ -174,7 +174,7 @@ A vessel-cargo allocation optimization system analyzing 165 voyage combinations 
 | **AI** | GPT-4 conversational interface for NL querying |
 | **Award** | 🥈 2nd Place — Cargill Ocean Transportation Datathon 2026 |
 
-Implemented freight rate calculations, TCE optimization, and FFA market pricing analysis. Built ML risk model with feature importance identification and scenario testing for sensitivity analysis.
+Implemented freight rate calculations, TCE optimization, and FFA market pricing analysis. Built ML risk model with Gradient Boosting (R² = 0.99) for feature importance analysis, identifying key profitability drivers across 165 voyage combinations to inform cargo allocation decisions.
 
 <br/>
 </details>
@@ -247,12 +247,28 @@ Built a deterministic capacity validation layer that intercepts every task addit
 
 ## ◈ Experience
 
+**Incoming Artificial Intelligence Engineer Intern** · Alpha Z · Singapore
+`Aug 2026 – Dec 2026`
+
+`Incoming`
+
+---
+
+**Software Engineer Intern** · Computing for Voluntary Welfare Organisations (partnered with GIC) · Singapore
+`May 2026 – Aug 2026`
+
+Engineered features for Cornerstone, a Go and React/TypeScript case management platform serving 5 social service agencies in Singapore. Extended the Custom Module with new field types and entity association relationships across 8 architectural layers — from cardinality-enforced PostgreSQL schemas to reusable frontend components — enabling no-code configurations. Onboarded Signpost Collective by migrating 200+ peddler profiles and 1,000+ case records across 5 regional teams, translating stakeholder requirements into an ERD and data migration plan. Resolved 10 critical full-stack bugs across GORM query caching, transaction boundaries, and Redux state management, eliminating silent failures.
+
+`Go` `React` `TypeScript` `PostgreSQL` `Redux` `GORM` `Docker`
+
+---
+
 **Chief Technology Officer** · ElevatEd · Jakarta, Indonesia
 `Aug 2025 – Jan 2026`
 
-Led technical strategy and engineering execution for an early-stage EdTech startup. Built and shipped two AI-powered platforms: ElevaCourse (RAG-based course generator) and ElevAI (student development platform scaled to 1,000+ active users across Indonesia). Managed a 6-person intern team across frontend and backend, establishing CI/CD pipelines, branching strategies, and code review processes. Reduced LLM token costs by ~30% through retrieval chunking optimization and prompt compression.
+Scaled ElevAI to 1,000+ active users across Indonesia by identifying LLM routing as a single point of failure and architecting a load-balanced cloud deployment with per-service horizontal scaling, shipping 3 major feature releases in 5 months. Reduced LLM operational costs by 30% by architecting a semantic caching layer and a syllabus-constrained RAG pipeline using Redis and asynchronous worker pools.
 
-`Next.js` `FastAPI` `Supabase` `RAG` `pgvector` `OpenAI` `Vercel` `Git`
+`Next.js` `FastAPI` `Supabase` `RAG` `Redis` `OpenAI` `Vercel` `Git`
 
 ---
 
@@ -268,9 +284,9 @@ Built and deployed 5 projects including AI-powered full-stack applications on AW
 **Cybersecurity Engineer Intern** · Halodoc · Jakarta, Indonesia
 `May 2025 – Jul 2025`
 
-Built an automated Jenkins-Python Access Management pipeline reducing provisioning time by 20% for 500+ accounts. Analyzed 300+ phishing domains and 60+ breach reports in SOCRadar, implementing domain-blocking rules. Enhanced Google Workspace security posture through granular DLP policies, reducing organizational exposure surface by ~15% across 3 business units.
+Reduced manual account management overhead by 20% across Google Workspace provisioning and deprovisioning by diagnosing a broken Jenkins-Python pipeline and re-engineering API calls with asynchronous execution and retry logic. Accelerated threat response by 70% by designing an AWS Lambda-based threat prioritization pipeline ingesting alerts from SOCRadar and SIEM sources, applying priority scoring logic for real-time routing to Slack.
 
-`Python` `Jenkins` `AWS CloudFront` `GitLab` `Google Workspace` `SOCRadar`
+`Python` `Jenkins` `AWS Lambda` `GitLab` `Google Workspace` `SOCRadar`
 
 ---
 
@@ -314,7 +330,7 @@ Analyzed 1,000 annotated chain-of-thought samples using Sparse Autoencoders on G
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justin-theodorus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justin-theodorus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=7C3AED&bg_color=0D0D0D&border_color=0D0D0D"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin-theodorus&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&hide=php"/>
 
 </div>
