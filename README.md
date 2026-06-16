@@ -22,7 +22,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=justin-theodorus&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/justin-theodorus?color=6D28D9&label=Followers&logo=github&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/justin-theodorus?color=4F46E5&label=Total+Stars&logo=github&style=flat-square)
 
 </div>
