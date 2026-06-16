@@ -14,7 +14,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-justintheodorus.com-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://justintheodorus.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-theodorus)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.theodorus@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin-theodorus)
@@ -76,6 +75,21 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+</div>
+
+---
+
+## ◈ Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/be15bdcb-b7e7-42cd-a1d2-c331560fb3e2/linked_in_profile">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
+</a>
+
+**AWS Certified Cloud Practitioner** — 2026
+[View Credential](https://www.credly.com/badges/be15bdcb-b7e7-42cd-a1d2-c331560fb3e2/linked_in_profile)
 
 </div>
 
