@@ -154,24 +154,6 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 
 ---
 
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| RAG Pipelines | ████████░░ Advanced | pgvector, text-embedding-3-small, chunking strategies, prompt compression |
-| LLM Engineering | ████████░░ Advanced | Multi-model routing, prompt chaining, fine-tuning, response caching |
-| Mechanistic Interpretability | ███████░░░ Proficient | Sparse Autoencoders, SAELens, Gemma-2B activation analysis |
-| Agentic Systems | ███████░░░ Proficient | LangGraph multi-agent, MCP tool servers, escalation routing |
-| ML Modeling | ███████░░░ Proficient | Gradient Boosting, Scikit-learn, feature importance, hyperparameter search |
-| NLP / Transformers | ██████░░░░ Intermediate | FinBERT, HuggingFace Transformers, sentiment extraction, CoT analysis |
-| Computer Vision | █████░░░░░ Intermediate | DeepFace emotion detection, AR camera integration |
-
-</div>
-
----
-
 ## ◈ Featured Projects
 
 <details>
@@ -326,70 +308,6 @@ Built a deterministic capacity validation layer that intercepts every task addit
 <br/>
 </details>
 
----
-
-## ◈ Experience
-
-**Incoming Artificial Intelligence Engineer Intern** · Alpha Z · Singapore
-`Aug 2026 – Dec 2026`
-
-`Incoming`
-
----
-
-**Software Engineer Intern** · Computing for Voluntary Welfare Organisations (partnered with GIC) · Singapore
-`May 2026 – Aug 2026`
-
-Engineered features for Cornerstone, a Go and React/TypeScript case management platform serving 5 social service agencies in Singapore. Extended the Custom Module with new field types and entity association relationships across 8 architectural layers — from cardinality-enforced PostgreSQL schemas to reusable frontend components — enabling no-code configurations. Onboarded Signpost Collective by migrating 200+ peddler profiles and 1,000+ case records across 5 regional teams, translating stakeholder requirements into an ERD and data migration plan. Resolved 10 critical full-stack bugs across GORM query caching, transaction boundaries, and Redux state management, eliminating silent failures.
-
-`Go` `React` `TypeScript` `PostgreSQL` `Redux` `GORM` `Docker`
-
----
-
-**Chief Technology Officer** · ElevatEd · Jakarta, Indonesia
-`Aug 2025 – Jan 2026`
-
-Scaled ElevAI to 1,000+ active users across Indonesia by identifying LLM routing as a single point of failure and architecting a load-balanced cloud deployment with per-service horizontal scaling, shipping 3 major feature releases in 5 months. Reduced LLM operational costs by 30% by architecting a semantic caching layer and a syllabus-constrained RAG pipeline using Redis and asynchronous worker pools.
-
-`Next.js` `FastAPI` `Supabase` `RAG` `Redis` `OpenAI` `Vercel` `Git`
-
----
-
-**Software Engineering Resident** · Headstarter · USA (Remote)
-`Jul 2025 – Jan 2026`
-
-Built and deployed 5 projects including AI-powered full-stack applications on AWS and Vercel. Developed a RAG-based Q&A system achieving 40% query response time reduction via multi-step prompt chaining. Engineered a multi-model LLM routing platform supporting 3 providers (Claude Haiku, GPT-4o Mini, Gemini Flash 2.5) with a configurable weighted scoring system balancing cost, quality, and latency per request.
-
-`Python` `TypeScript` `AWS` `Next.js` `FastAPI` `React` `Vercel` `LLM Routing`
-
----
-
-**Cybersecurity Engineer Intern** · Halodoc · Jakarta, Indonesia
-`May 2025 – Jul 2025`
-
-Reduced manual account management overhead by 20% across Google Workspace provisioning and deprovisioning by diagnosing a broken Jenkins-Python pipeline and re-engineering API calls with asynchronous execution and retry logic. Accelerated threat response by 70% by designing an AWS Lambda-based threat prioritization pipeline ingesting alerts from SOCRadar and SIEM sources, applying priority scoring logic for real-time routing to Slack.
-
-`Python` `Jenkins` `AWS Lambda` `GitLab` `Google Workspace` `SOCRadar`
-
----
-
-**Teaching Assistant** (COR-IS1704: Computational Thinking & Programming) · Singapore Management University
-`Jan 2025 – May 2025`
-
-Supported 60+ students in Python fundamentals through weekly consultations and cohort-wide grading. Developed additional practice problem sets and conducted targeted review sessions for underperforming students.
-
-`Python` `Teaching` `Curriculum Support`
-
----
-
-**Machine Learning Researcher** · Algoverse · USA (Remote)
-`Nov 2024 – Mar 2025`
-
-Analyzed 1,000 annotated chain-of-thought samples using Sparse Autoencoders on Gemma-2B. Mapped neuron activations to 9 distinct reasoning error types and co-authored a paper accepted to the ICLR 2025 Workshop on Building Trust in Language Models.
-
-`Python` `PyTorch` `SAELens` `Transformers` `Pandas` `Seaborn` `Research`
-
----
 
 ## ◈ Current Focus
 
