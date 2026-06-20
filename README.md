@@ -59,7 +59,7 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,express,django,nodejs,mysql,mongodb,postgres,redis,supabase,firebase,elastisearch,dynamodb,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,express,django,nodejs,mysql,mongodb,postgres,redis,supabase,firebase,elasticsearch,dynamodb,graphql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
