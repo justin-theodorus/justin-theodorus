@@ -51,30 +51,23 @@ Currently targeting **Software Engineering internships for 2027** across SWE, AI
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,bash,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,c,bash,php,r,html,css,md&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,threejs,redux,materialui&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,express,django,nodejs,mysql,mongodb,postgres,redis,supabase,firebase,elastisearch,dynamodb,graphql&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,github,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,prisma,git,github,githubactions,gitlab,linux,kubernetes,nginx,rabbitmq,grafana,prometheus,vercel,netlify,vim,postman,npm,yarn&theme=dark" />
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,anaconda&theme=dark" />
 
 </div>
 
