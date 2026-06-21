@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-theodorus)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.theodorus@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin-theodorus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://justin-theodorus.vercel.app/)
 
 <br/>
 
@@ -338,6 +339,7 @@ justin_theodorus:
 [![Gmail](https://img.shields.io/badge/Gmail-justin.theodorus%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.theodorus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justin--theodorus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-theodorus)
 [![GitHub](https://img.shields.io/badge/GitHub-justin--theodorus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin-theodorus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-justin--theodorus.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://justin-theodorus.vercel.app/)
 
 </div>
 
